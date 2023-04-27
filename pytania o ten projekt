@@ -1,0 +1,8 @@
+1) dlaczego stylizuje tylko na mobile i na sm a na wieksze nie 
+2) jak scroll on x myszka
+3) 
+const request = await fetch(`https://api.themoviedb.org/3${requests[genre]?.url || requests.fetchTrending.url}`)
+  .then((res) => res.json());
+  what about toprated movies? 
+4) why my webiste does not have lazy loading even though I was coding everything like Sonny
+5) why you have not done the responsive styles only using flexbox? Why to use both grid and flex? is it makes you more work?
